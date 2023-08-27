@@ -12,7 +12,7 @@ $(function(){
 	
 	// 保存数据的方法
 	function saveData(data){
-		localStorage.setItem('todo', JSON.stringify(data));
+		localStorage.setItem('todo111111111111111111', JSON.stringify(data));
 	}
 	
 	 // 加载网页数据
