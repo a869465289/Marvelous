@@ -1,0 +1,3 @@
+[submodule "myVue"]
+	path = myVue
+	url = ../myVue.git
